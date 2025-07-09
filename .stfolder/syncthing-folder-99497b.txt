@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: zmcpw-pnwtj
+created: 2025-06-26T17:25:45+02:00
