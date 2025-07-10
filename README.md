@@ -1,6 +1,6 @@
 # Classifying Mushroom Edibility with Machine Learning
 
-In this repository, we decribe and conduct a training process for various machine learning models. We are using UCI Mushroom dataset, which is availbale publicly: [UCI Mushroom Dataset (https://archive.ics.uci.edu/ml/datasets/Mushroom).
+In this repository, we decribe and conduct a training process for various machine learning models. We are using UCI Mushroom dataset, which is availbale publicly: [UCI Mushroom Dataset] (https://archive.ics.uci.edu/ml/datasets/Mushroom).
 
 Objective: predict edibility of a mushroom, given categorical data.
 
