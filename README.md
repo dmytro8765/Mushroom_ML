@@ -17,8 +17,8 @@ pip3 install -r requirements.txt
 ```
 - Additionally, the course library **courselib** contains data-preprocessing tools and machine learning models that were used in this project. It can be found in this repository and must be installed/loaded before attempting the training.
 - Lastly, for **courselib** linear and kernel SVM:
-- 
-  ```setup
+  
+```setup
 pip3 install cvxopt
 ```
 
