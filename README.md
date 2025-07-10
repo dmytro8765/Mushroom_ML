@@ -1,8 +1,6 @@
 # Classifying Mushroom Edibility with Machine Learning
 
-In this repository, we decribr and conduct a training process for various machine learning models. Using UCI Mushroom dataset, which is availbale publicly:
-
-[UCI Mushroom Dataset](https://archive.ics.uci.edu/ml/datasets/Mushroom).
+In this repository, we decribe and conduct a training process for various machine learning models. We are using UCI Mushroom dataset, which is availbale publicly: [UCI Mushroom Dataset (https://archive.ics.uci.edu/ml/datasets/Mushroom).
 
 Objective: predict edibility of a mushroom, given categorical data.
 
@@ -22,9 +20,9 @@ pip install -r requirements.txt
 This project explores:
 
 1) Different feature encodings: 
-    - one-hot
-    - ordinal
-    - frequency.
+    - One-hot
+    - Ordinal
+    - Frequency.
 
 2) Classification with:
     - Logistic Regression with L1 penalty (Lasso) for feature selection & sparsity 
@@ -33,9 +31,7 @@ This project explores:
 
 ## Training
 
-The data-loading, data studies, as well as training processes for each model can be found in the following jupyter notebook:
-
-[Mushroom.ipynb](Mushroom.ipynb)
+The data-loading, data studies, as well as training processes for each model, can be found in the following jupyter notebook: [Mushroom.ipynb](Mushroom.ipynb)
 
 ## Results
 
@@ -50,4 +46,4 @@ Main accuracy results of the conducted training:
 | Ordinal    | Linear SVM           |         59.07 |
 |            | Ridge classification |         89.41 |
 
-Additional outputs, such as sparsity graphs for each ancoding method, and hyperparameter selection for the kernel SVM method, can be found in the [Mushroom_Project_Report](ML_Project_Report.pdf), and as outputs of the jupyter notebook itself.
+Additional outputs, such as sparsity graphs for each encoding method and hyperparameter selection for the kernel SVM method, can be found in the [Mushroom_Project_Report](ML_Project_Report.pdf), and as outputs of the Jupyter Notebook itself.
